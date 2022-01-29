@@ -38,4 +38,4 @@ Warrior é herdada pelas classes concretas Knight e Ninja e Wizard é herdada pe
 
 Adicionei mecânicas de ataque corpo a corpo e mecânicas de ataques mágicos.
 
-O jogo completo está quase totalmente concluído, só sendo necessário resolver alguns bugs, e já contem quase que totalmente implementado sistema de fases, level de personagens baseados em XP e mudnaça de turnos.
+O jogo completo está quase totalmente concluído, só sendo necessário resolver alguns bugs, e já contem quase que totalmente implementado sistema de fases, level de personagens baseados em XP e mudança de turnos.
